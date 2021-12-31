@@ -10,7 +10,7 @@ public class BABBA {
         int[] Bdata=new int[k+1];
         Adata[0]=1;
         Bdata[0]=0;
-
+//aabb//
         for(int i=1;i<=k;i++){
             Adata[i]=Adata[i-1];
             Bdata[i]=Bdata[i-1];
