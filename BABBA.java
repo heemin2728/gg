@@ -11,6 +11,7 @@ public class BABBA {
         Adata[0]=1;
         Bdata[0]=0;
 //aabb//
+//ccdd//
         for(int i=1;i<=k;i++){
             Adata[i]=Adata[i-1];
             Bdata[i]=Bdata[i-1];
